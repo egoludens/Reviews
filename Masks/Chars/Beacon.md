@@ -9,7 +9,7 @@
 Обычная одежда: удобная, тёмная, непримечательная
 <details>
   <summary>Референс, обычная одежда</summary>
-  ![(Роберт в обычной одежде)](https://github.com/egoludens/Reviews/blob/main/Masks/Chars/rob_gilchrist.jpg)
+  (Роберт в обычной одежде) https://github.com/egoludens/Reviews/blob/main/Masks/Chars/rob_gilchrist.jpg
 </details>
 Костюм:
 • flashy costume, stylish costume, gaudy costume, iconic costume
