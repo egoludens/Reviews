@@ -1,14 +1,12 @@
 Плейбук: Beacon / Маяк
 
-Имя: 
+Имя: Роберт Гилкрайст
+Геройское имя: 
 
 Возраст: 17
 
-Внешность:
-• ambiguous, man, shifting, transgressing, woman
-• Asian or South Asian, Black, Hispanic/Latino, Indigenous, Middle Eastern, White
-• smiling face, naïve face, average face, pretty face
-• stylish clothing, comfortable clothing, simple clothing, casual clothing
+Внешность: высокий худой парень, тёмные волосы, чёрные глаза, улыбчивый
+Обычная одежда: удобная, тёмная, непримечательная
 Костюм:
 • flashy costume, stylish costume, gaudy costume, iconic costume
 
@@ -21,6 +19,7 @@
 Superior: 0 => +1
 
 Предыстория
+
 - **How did you gain your skills?**  
 Тренировки. Много тренировок. Может, я и смог пробиться в школу супергероев с помощью крючкотворства, но в реальной ситуации я должен выжимать из своего теля максимум, чтобы хотя бы не оставать от других.
 • When did you first put on your costume?
