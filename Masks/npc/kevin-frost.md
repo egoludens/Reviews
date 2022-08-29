@@ -1,4 +1,3 @@
-https://www.deviantart.com/phil-cho/art/Jack-Frost-Earth-27-commission-901679767
 **Имя:** Кей-Фрост (Кевин Форстнер)  
 **Силы:** Лёд и холод - но только из  пальцев  
 **Состояния:**  
@@ -19,3 +18,5 @@ https://www.deviantart.com/phil-cho/art/Jack-Frost-Earth-27-commission-901679767
 **Комментарий:**  
 Герой, пойманный Танжи. Содержится в жарко натопленной камере. Красное лицо, течёт пот.  
 Танжи сломали его и теперь всё, что он хочет - создавать ледяные скульптуры. Это его убежище от мира.
+
+Ref: https://www.deviantart.com/phil-cho/art/Jack-Frost-Earth-27-commission-901679767
